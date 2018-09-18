@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "Azure_Monitor_By_Api_With_Wget_for_Zabbix",
+			"name": "Azure_Monitor_By_Api_With_Wget_for_Zabbix"
 		}
 	],
 	"settings": {}
